@@ -1,3 +1,3 @@
 # belajar-cicd-pemula
-Repositori untuk belajar membuat CI/CD lewat Github Actions (dari video youtube https://youtube.com/user/girikuncoro))
+First ci-cd testing
 # ci-cd-testing
